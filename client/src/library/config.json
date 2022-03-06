@@ -1,0 +1,6 @@
+{
+  "name": "Storage Example",
+  "network": "granadanet",
+  "rpc": " https://localhost:8732",
+  "contractAddr": "KT1VhtTGAyh7AVVwyH2ExNhaXvQq2rAJ6DNs"
+}
